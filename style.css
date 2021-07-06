@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+}
+header{
+    text-align: center;
+    background-color: tomato;
+    
+    
+} 
+header h1{
+    margin: 0;
+  color: white;
+  text-shadow: 4px 4px 4px #000000;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+.top-text{
+   padding-top: 15%;
+}
+
+.one-third-width-parent{
+    text-align: center;
+    margin-left:7%;
+    
+}
+.items{
+    height:350px;
+}
+.one-third-width{
+    width:26%;
+    float: left;
+    /* border: 1px solid black; */
+    margin-left:4%;
+    border-radius: 5%;
+    
+}
+.my_recipe{
+    text-align: center;
+    padding: 5%;
+    width: 60%;
+    margin-left: 15%;
+}
+.my_recipe p{
+    font-size: 24px;
+}
+
+.recipe{
+    box-shadow: 5px 5px 40px gray;
+}
+
+.image{
+    padding:4%;
+}
+.recipe-detail{
+    text-align: left;
+    padding:5%;
+}
+
+.follower{
+    box-shadow: 5px 5px 40px gray;
+    width: 85%;
+    height: 10px;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.about-me{
+    background-image: url("images/shapes/Frame 57.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-top: 5%;
+    height: 200px;
+}
+
+footer h1{
+    font-size: 30px;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    padding:5%;
+}
